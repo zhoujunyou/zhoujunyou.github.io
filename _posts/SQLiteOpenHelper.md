@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      android.database.sqlite
+subtitle:   SQLiteOpenHelper
+date:       2019-04-29
+author:     zjy
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - Android
+    - sqlite
+    - SQLiteOpenHelper
+---
 ###android.database.sqlite
 
 对照ODBC流程源码分析。未进入native分析
