@@ -1,5 +1,5 @@
 # Site settings
-title: BY Blog
+title: 周俊佑的博客
 SEOTitle: 周俊佑的博客
 header-img: img/post-bg-desk.jpg
 email: zhoujunyou2b@gmail.com
@@ -19,7 +19,7 @@ sidebar-about-description: "Goals determine what you going to be!"
 # SNS settings
 RSS: false
 # weibo_username:     zhoujunyou
-zhihu_username:     zhoujunyou
+# zhihu_username:     zhoujunyou
 github_username:    zhoujunyou
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
